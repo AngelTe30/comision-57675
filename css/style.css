@@ -1,0 +1,44 @@
+/* 
+violeta: #8011f2
+azul: #0e153a
+*/
+
+.bg-blue {
+  background-color: cadetblue;
+}
+
+.bg-red {
+  background-color: salmon;
+}
+
+.c-violeta {
+  color: #8011f2;
+}
+
+.c-azul {
+  color: #0e153a;
+}
+
+.bg-violeta {
+  background-color: #8011f2;
+}
+
+.bg-azul {
+  background-color: #0e153a;
+}
+
+.btn-azul {
+  background-color: #0e153a;
+  border: 2px solid #0e153a;
+  color: white;
+}
+
+.btn-azul:hover {
+  background-color: white;
+  color: #8011f2;
+  border: 2px solid #8011f2;
+}
+
+footer .bi-icon:hover {
+  color: #8011f2;
+}
